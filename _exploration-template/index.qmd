@@ -1,0 +1,51 @@
+---
+# HOW TO USE: copy this folder into gisventure/, rename it (e.g. gisventure/sabarmati-ndwi),
+# put your images next to this file, fill in the fields, and delete these comment lines.
+# Folders starting with "_" are ignored by Quarto, so this template never appears on the site.
+title: "Your title as a plain statement"
+description: "One sentence on the question this explores."
+author: "Srijith Balan"
+date: 2026-11-01
+image: thumb.webp                 # thumbnail for listings (any image in this folder)
+kind: "Topic, place, sensor, years"
+shows: "What the data supports, in one sentence."
+notshown: "What it does not support, in one sentence."
+connected: "The primary or dominant connected factors, briefly."
+categories: [tag1, tag2]
+---
+
+::: {.panel .reading}
+[Reading this carefully]{.panel-title}
+
+Shows
+:   Longer version of what the data supports.
+
+Doesn’t show
+:   Longer version of the limits.
+
+Connected to
+:   The main connected systems or drivers, and whether this work tested them.
+:::
+
+Opening paragraph: the question and why it matters.
+
+![Caption that says what the reader should notice.](figure.webp){fig-alt="Plain description of the figure for screen readers."}
+
+## Method
+
+::: {.method}
+Data
+:   Sensor, product, dates
+
+Processing
+:   Platform and steps
+
+Code
+:   Link to notebook or script
+:::
+
+::: {.discuss-lead}
+## A question for readers
+
+End with what you genuinely want to know from others.
+:::

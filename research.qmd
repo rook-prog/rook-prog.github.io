@@ -1,0 +1,48 @@
+---
+title: "Research"
+description: "Peer-reviewed work on ocean optics, phytoplankton and coastal dynamics, newest first within each theme."
+---
+
+## Ocean optics and phytoplankton
+
+::: {.papers}
+- [[Expansion of low-chlorophyll regions in the tropical Indian Ocean: spatial patterns and physical–biogeochemical associations](https://doi.org/10.1071/MF26083)]{.t}
+  [Vijaya Krishna A, **Srijith B**, Smruthi VM, Deb SK, Sharma R, Khanna P]{.authors}
+  [*Marine and Freshwater Research* 77(15), MF26083, 2026. [Explainer](gisventure/low-chlorophyll/index.qmd)]{.v}
+
+- [[Optical variability of *Trichodesmium erythraeum* and *T. theibautii* blooms in the Arabian Sea: from pigments to satellite signals](https://doi.org/10.1016/j.rsase.2026.102251)]{.t}
+  [Vijaya Krishna A, **Srijith B**, Tirkey A, Raman M, Deb SK]{.authors}
+  [*Remote Sensing Applications: Society and Environment* 43, 102251, 2026. [Explainer](gisventure/trichodesmium/index.qmd)]{.v}
+
+- [[Linking derivative absorption spectra and HPLC pigments to satellite observations for phytoplankton typing in coastal India](https://doi.org/10.1007/s12524-026-02569-w)]{.t}
+  [Krishna AV, **Srijith B**, Tirkey A, Ali SM, Ganguly D, Gupta A, Raman M, Deb SK, Sharma R]{.authors}
+  [*Journal of the Indian Society of Remote Sensing*, 2026 (published online 3 September)]{.v}
+
+- [[Spectral deconvolution of green *Noctiluca* bloom pigments via fourth derivative analysis: a step toward dedicated remote sensing algorithms](https://doi.org/10.1109/InGARSS67683.2025.11583931)]{.t}
+  [Tirkey A, Vijaya Krishna A, **Srijith B**, Ali SM, Babu KN, Sahay A, Deb SK, Solanki H]{.authors}
+  [*2025 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)*, Bhubaneswar, pp. 311–315, 2025. Conference paper]{.v}
+:::
+
+## Coastal and estuarine dynamics
+
+::: {.papers}
+- [[Are artificial barrages necessary to prevent saline incursion? A modelling approach to restore the healthy ecosystem of the Vembanad Lake](https://doi.org/10.1007/s10666-022-09832-7)]{.t}
+  [John S, Revichandran C, Muraleedharan KR, Seena G, Gautham S, **Srijith B**, Azeez SA, Cazenave P]{.authors}
+  [*Environmental Modeling & Assessment* 27(5), 791–816, 2022]{.v}
+
+- [[Current asymmetry and its implications for morphological changes in Vembanad Lake, the second largest wetland ecosystem in India](https://doi.org/10.1016/j.ecss.2020.107013)]{.t}
+  [John S, Revichandran C, Muraleedharan KR, **Srijith B**, Seena G, Abdul Azeez S]{.authors}
+  [*Estuarine, Coastal and Shelf Science* 246, 107013, 2020]{.v}
+
+- [[Formation mechanism of mud bank along the southwest coast of India](https://doi.org/10.1007/s12237-017-0340-0)]{.t}
+  [Muraleedharan KR, Dinesh Kumar PK, Prasanna Kumar S, John S, **Srijith B**, Anil Kumar K, Naveen Kumar K, Gautham S, Samiksha V]{.authors}
+  [*Estuaries and Coasts* 41(4), 1021–1035, 2018]{.v}
+
+- [Application of hydrodynamic model in regulating the salt incursion in the upper reaches of Vembanad Lake, southwest coast of India]{.t}
+  [John S, Revichandran C, Muraleedharan KR, Seena GM, Gautham S, **Srijith B**]{.authors}
+  [International Conference on Sonar Systems and Sensors (ICONS), NPOL, Kochi, February 2018. Conference paper]{.v}
+
+- [[Observed salinity changes in the Alappuzha mud bank, southwest coast of India and its implication to hypothesis of mudbank formation](https://doi.org/10.1016/j.csr.2017.01.015)]{.t}
+  [Muraleedharan KR, Dinesh Kumar PK, Prasanna Kumar S, **Srijith B**, John S, Naveen Kumar KR]{.authors}
+  [*Continental Shelf Research* 137, 39–45, 2017]{.v}
+:::

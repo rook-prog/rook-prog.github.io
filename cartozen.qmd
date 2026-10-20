@@ -1,0 +1,54 @@
+---
+title: "CartoZen"
+subtitle: "Station Map Generator, v1.1.0"
+description: "A lightweight, browser-based map generator for research, teaching and reporting. Upload station coordinates and export a publication-ready map, without a full GIS setup."
+page-layout: full
+resources:
+  - files/CartoZen_QuickHelpGuide.docx
+---
+
+::: {.cz-intro}
+![](images/cartozen-logo.webp){fig-alt="CartoZen logo: a location pin over a green folded map, with the word CartoZen." .cz-logo}
+
+CartoZen turns a spreadsheet of station coordinates into a clean, publication-ready map. I built it for researchers, students and field teams who need a good station map for a paper, report or briefing, without wrestling with a full GIS. It focuses on sensible defaults, careful coordinate handling and export-ready output.
+
+[Open CartoZen in a new tab](https://cartozenv1.streamlit.app/){.cz-open} [Download the quick help guide (Word)](files/CartoZen_QuickHelpGuide.docx){.cz-secondary}
+:::
+
+::: {.cz-body}
+## What it does
+
+::: {.method}
+Your data
+:   Station coordinates from CSV or Excel, in decimal degrees, degrees–minutes–seconds or UTM. Optional overlays as a zipped shapefile, GeoJSON or KML.
+
+Map styling
+:   Land and ocean colours, marker shape, colour, size, border and halo, station labels, and gridlines with decimal or DMS axis labels
+
+Map elements
+:   Legend, scale bar in km or miles, north arrow, an inset overview map (global, country, continent or area of interest) and custom text annotations
+
+Dense datasets
+:   Label decluttering, station clustering with counts or representative labels, and local insets for large clusters
+
+Export
+:   PNG or JPEG at 100–600 DPI, on A4, A3 or Letter, in portrait or landscape
+:::
+
+## How to use it
+
+{{< video https://www.youtube.com/watch?v=YyDEGfvrG5U title="CartoZen walkthrough" aspect-ratio="16x9" >}}
+
+Prepare your data with latitude and longitude columns named Lat, Lon, Latitude or Longitude, and make sure the coordinate format you select matches the file. Every control sits in the sidebar, grouped into sections from Data upload to Export.
+
+**Tips:** simplify large overlay files for speed, use clustering when stations crowd together, and note that the legend shows at most 50 entries.
+
+## Try it here
+:::
+
+```{=html}
+<div class="cz-frame">
+  <iframe src="https://cartozenv1.streamlit.app/?embed=true" title="CartoZen map generator" loading="lazy" allow="clipboard-write; fullscreen"></iframe>
+</div>
+<p class="cz-note">If the app shows a “wake up” or sleeping screen, it has been idle for a while. Wake it up and give it a minute, or open it in a new tab. The sidebar holds all the controls; on a phone, the new-tab version is easier to use.</p>
+```

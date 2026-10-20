@@ -1,0 +1,5 @@
+<ul class="writing">
+<% for (const item of items) { const href = String(item.path || "").replace(/\\/g, "/").replace(/\.qmd$/, ".html"); %>
+<li><a class="w-title" href="<%- href %>"><%= item.title %></a><% if (item.description) { %><span class="w-desc"><%= item.description %></span><% } %><span class="w-meta"><%= item.date %><% if (item.categories && item.categories.length) { %>, <%= item.categories.join(", ") %><% } %></span></li>
+<% } %>
+</ul>

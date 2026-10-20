@@ -1,0 +1,5 @@
+<ul class="explorations">
+<% for (const item of items) { const href = String(item.path || "").replace(/\\/g, "/").replace(/\.qmd$/, ".html"); const img = item.image ? String(item.image).replace(/\\/g, "/") : ""; %>
+<li class="ex<% if (!img) { %> noimg<% } %>"><% if (img) { %><a href="<%- href %>" tabindex="-1" aria-hidden="true"><img src="<%- img %>" alt="" loading="lazy"></a><% } %><div><h3><a href="<%- href %>"><%= item.title %></a></h3><% if (item.kind) { %><p class="kind"><%= item.kind %></p><% } %><% if (item.shows || item.notshown) { %><dl class="reading"><dt>Shows</dt><dd><%= item.shows %></dd><dt>Doesn’t show</dt><dd><%= item.notshown %></dd><% if (item.connected) { %><dt>Connected to</dt><dd><%= item.connected %></dd><% } %></dl><% } %></div></li>
+<% } %>
+</ul>

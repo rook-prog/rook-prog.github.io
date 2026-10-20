@@ -1,0 +1,28 @@
+---
+title: "Mentoring"
+description: "Before remote sensing, I taught physics for a decade. I still mentor young learners, on more than academics."
+---
+
+## Beyond the Bell
+
+A podcast on emotional resilience, communication and critical thinking for young learners and the adults around them.
+
+[Add the podcast link and a short description of recent episodes.]{.todo}
+
+## Writing on teaching and growing up
+
+::: {.plain}
+- Listening beyond words: recognising silent struggles in the classroom
+- The power of the pause: responding instead of reacting
+- Equity in expression: giving every child a voice
+- Troublemakers? Yes, and here’s why
+- Parent–teacher partnerships: aligning communication for the child
+- Bridging the gap: adapting to students’ perspectives in teaching
+- Strategies to address miscommunication and misunderstandings
+- Before we blame the next generation, let’s look in the mirror
+- Conflicts as obstruction to the learning curve
+- The relevance of learning
+- The power of understanding: lessons from Taare Zameen Par
+:::
+
+[Each title can become its own page. Copy the article text from your LinkedIn export into mentoring/&lt;slug&gt;.qmd and link it here. Check the titles against the originals.]{.todo}

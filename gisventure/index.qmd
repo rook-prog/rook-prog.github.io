@@ -1,0 +1,12 @@
+---
+title: "GISVENTURE"
+subtitle: "Explore. Map. Transform the World."
+description: "Explorations in remote sensing and GIS. Each one states what the data supports, where it stops, and what it connects to."
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  template: ../_ejs/explorations.ejs
+  fields: [title, image, path, kind, shows, notshown, connected, date]
+---
+
+![](../images/gisventure-banner.webp){fig-alt="GISVENTURE banner: compass logo over a world map, with the line Explore. Map. Transform the World. Your guide to QGIS, ODV, and real-world GIS applications." .gv-banner}

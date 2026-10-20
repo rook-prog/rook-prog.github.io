@@ -1,0 +1,23 @@
+---
+title: "Bridging the Gap: Adapting to Students' Perspectives in Teaching"
+description: "An interview I flunked, and what it taught me about seeing a problem from the student’s side."
+author: "Srijith Balan"
+date: 2024-08-22
+categories: [Teaching]
+---
+
+## The Difficulty of Stepping Down
+
+In a recent interview (in which I flunked ;) ), I faced a scenario that made me reflect on my teaching approach. I was asked to guide a child through a basic math operation: *"Subtract 15 from 5."* The child’s response was *15 - 5 = 10,* highlighting a fundamental misunderstanding.
+
+My task was to explain that the operation should be *5 - 15,* not the other way around. I attempted to use the example of toffees to illustrate the concept. Still, I became so focused on explaining positive and negative numbers that I lost sight of my primary goal. I’m grateful to the interviewer for pointing out this gap in my approach and providing valuable feedback on improving.
+
+As both a student and a teacher, I’ve encountered numerous situations where communication breaks down due to differing perspectives. Teachers must adapt their explanations to align with the child’s understanding and help them navigate their learning challenges.
+
+After years of working with similar concepts, it’s easy to forget that students are just beginning to grasp these ideas. When a child struggles with what seems like a simple problem, it’s easy to respond with frustration. However, we must remember that children are processing a flood of new information, which can be overwhelming.
+
+I am continuously striving to improve my teaching methods and deeply respect those who have mastered the art of effective communication with their students. This experience has been a valuable reminder of the importance of empathy and flexibility in teaching.
+
+::: {.origin}
+*Originally published on [LinkedIn](https://www.linkedin.com/pulse/bridging-gap-adapting-students-perspectives-teaching-srijith-balan-fhipf), 22 August 2024.*
+:::

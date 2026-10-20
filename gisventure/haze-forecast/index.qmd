@@ -1,0 +1,59 @@
+---
+title: "Southeast Asia’s haze: fires and forecasts together"
+description: "Integrating satellite fire detections with atmospheric composition forecasts, and what that combination can and cannot tell us."
+author: "Srijith Balan"
+date: 2026-10-15
+image: thumb.webp
+kind: "Aerosols, VIIRS active fires with CAMS five-day forecasts"
+shows: "Modelled mean aerosol optical depth falling by about 43% over five days, unevenly."
+notshown: "Smoke travelling from particular fires to particular places."
+connected: "Fire activity, winds at several heights, vertical mixing, rain washout."
+categories: [aerosols, CAMS, FIRMS, air quality]
+---
+
+::: {.panel .reading}
+[Reading this carefully]{.panel-title}
+
+Shows
+:   How CAMS forecasts expected aerosol conditions to evolve over 14–19 October 2026, set against fires observed the week before.
+
+Doesn’t show
+:   Smoke-plume trajectories. Fire locations and high aerosol together do not establish a transport pathway, and the arrows are modelled 10 m winds.
+
+Connected to
+:   Fire activity and emission strength, winds at several atmospheric levels, vertical mixing, and removal by rainfall. The forecast model represents these; this visualisation does not separate them.
+:::
+
+Forest and vegetation fires are important contributors to atmospheric aerosol loading, particularly where seasonal biomass burning affects air quality across national boundaries. Southeast Asia is one such region, and understanding where aerosols are and how they may move requires more than finding the fires.
+
+I put together a small visualisation integrating satellite-derived active-fire detections with atmospheric composition forecasts, to look at how aerosol conditions might evolve across the region.
+
+{{< video forecast.mp4 title="CAMS aerosol forecast with FIRMS fire detections, Southeast Asia, 14–19 October 2026" >}}
+
+## Data
+
+::: {.method}
+Fires
+:   NASA FIRMS (VIIRS) active-fire detections, 7–14 October 2026
+
+Forecasts
+:   Copernicus Atmosphere Monitoring Service: five-day forecasts of total AOD, organic matter AOD, surface PM₂.₅ and near-surface winds, initialised 14 October 2026
+
+Terrain
+:   GEBCO 2026
+
+Processing
+:   Python and GIS libraries, animated at six-hour intervals
+:::
+
+## What the forecasts indicated
+
+Across the study region, modelled mean total AOD decreases by about 43.5% over the five days, and organic matter AOD by about 49%. The reduction is not uniform: areas of elevated aerosol remain in parts of equatorial Southeast Asia even as the regional mean falls. The fire detections give useful geographical context for where organic aerosol loading is enhanced.
+
+## What it doesn’t establish
+
+Identifying active fires and observing elevated aerosol does not by itself establish a transport pathway between them. The wind vectors are modelled 10 m winds, while aerosol transport happens across several atmospheric levels. This is an illustration of forecast evolution in relation to observed fires, not a reconstruction of smoke plumes.
+
+The broader aim was to see how several Earth observation and modelling datasets can be combined to communicate a regional process, while staying clear about what each dataset represents.
+
+*The animation shows model forecasts, not observed future air quality. Fire detections are historical observations. Data: CAMS/ECMWF, NASA FIRMS, GEBCO Compilation Group (2026).*

@@ -1,0 +1,31 @@
+---
+title: "About"
+---
+
+## How I work
+
+I believe all research, whatever its scale, should be transparent about its method and honest about its results, positive or negative. Every contribution becomes reference material for someone else at some point. If the foundation is fragile, whatever is built on it will fail sooner or later, however carefully it is built.
+
+So in everything I do, I try to show the whole picture. Work like this is not always publishable, but it can still be shared. This site is partly a record of those efforts, kept for whoever builds on them next, including me.
+
+I also want to bring context back into environmental work. Many polished maps, posts and project reports show an outcome without the system around it. No environmental change happens in isolation. I don’t try to trace every connection, but I name the dominant ones, so readers know what else might be shaping a result.
+
+## Background
+
+I trained in physics, taught it, then moved into ecological informatics and ocean colour remote sensing at the National Institute of Oceanography. Today I work independently on coastal restoration, carbon and salinity mapping, and open geospatial tools, and share explorations through GISVENTURE.
+
+The thread through all of it is explanation. A satellite map and a struggling student both need someone to ask what is really going on before deciding what it means.
+
+## Work with me
+
+I take on remote sensing and GIS work for restoration programmes, NGOs and researchers: baseline studies, change analysis, mapping and clear reporting. I’m also open to consultant and project lead roles in environmental remote sensing.
+
+- Email: [srijith.academic@gmail.com](mailto:srijith.academic@gmail.com)
+- [GitHub](https://github.com/rook-prog/)
+- [LinkedIn](https://www.linkedin.com/in/sbislinkedhere)
+
+## Education and languages
+
+- M.Phil., Ecological Informatics, IIITM-K, Thiruvananthapuram (2013); dissertation carried out at ATREE, Bangalore
+- M.Sc., Physics, Aquinas College, Edakochi
+- Languages: Malayalam, English, Hindi, Tamil

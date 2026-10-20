@@ -77,21 +77,18 @@ Before remote sensing, I taught physics for a decade. I still mentor young learn
 :::
 ::::
 
-::: {.content-hidden}
-<!-- Newsletter: hidden until Buttondown is set up. Replace YOUR-BUTTONDOWN-USERNAME, then remove the ::: wrapper lines. -->
 ```{=html}
 <section class="signup" aria-labelledby="nl-title">
   <div>
     <h2 id="nl-title">Get new explorations by email</h2>
     <p>Roughly twice a month. One piece of data, read carefully, and a question for you.</p>
   </div>
-  <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR-BUTTONDOWN-USERNAME" method="post" target="popupwindow">
+  <form action="https://buttondown.com/api/emails/embed-subscribe/srijithbalan" method="post" target="popupwindow">
     <label for="nl-email" class="visually-hidden">Email address</label>
     <input type="email" name="email" id="nl-email" placeholder="you@example.com" autocomplete="email" required>
     <button type="submit">Subscribe</button>
   </form>
 </section>
 ```
-:::
 
 ::::::

@@ -8,7 +8,7 @@ project:
 website:
   title: "Srijith Balan"
   description: "Work worth building on. Remote sensing and GIS research, explorations and tools by Srijith Balan, shown with method, context and results."
-  site-url: "https://rook-prog.github.io"   # change to your domain once it is set up
+  site-url: "https://srijithbalan.com"   # change to your domain once it is set up
   favicon: images/favicon.png
   open-graph: true
   page-navigation: false

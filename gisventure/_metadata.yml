@@ -1,15 +1,14 @@
 # Applies to every page in gisventure/
-# Comments are off for the first publish. To enable giscus later:
-# turn on Discussions on the repo, install the giscus app, then delete
-# the line "comments: false" and remove the leading "# " from the block below.
-comments: false
-# comments:
-#   giscus:
-#     repo: rook-prog/rook-prog.github.io
-#     category: "Explorations"
-#     mapping: pathname
-#     reactions-enabled: true
-#     input-position: top
-#     theme:
-#       light: light
-#       dark: dark
+# Comments via giscus (GitHub Discussions, category "Explorations")
+comments:
+  giscus:
+    repo: rook-prog/rook-prog.github.io
+    repo-id: "R_kgDOVRGiJQ"
+    category: "Explorations"
+    category-id: "DIC_kwDOVRGiJc4DJLgv"
+    mapping: pathname
+    reactions-enabled: true
+    input-position: top
+    theme:
+      light: light
+      dark: dark

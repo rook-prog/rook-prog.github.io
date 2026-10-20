@@ -1,0 +1,41 @@
+[
+  {
+    "listing": "/mentoring/index.html",
+    "items": [
+      "/mentoring/conflicts-learning-curve/index.html",
+      "/mentoring/equity-in-expression/index.html",
+      "/mentoring/power-of-pause/index.html",
+      "/mentoring/troublemakers/index.html",
+      "/mentoring/coaching-sells-aspiration/index.html",
+      "/mentoring/parent-teacher-partnerships/index.html",
+      "/mentoring/before-we-blame/index.html",
+      "/mentoring/listening-beyond-words/index.html",
+      "/mentoring/physics-philosophy-eminem/index.html",
+      "/mentoring/bridging-the-gap/index.html",
+      "/mentoring/taare-zameen-par/index.html",
+      "/mentoring/miscommunication-strategies/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/gisventure/haze-forecast/index.html",
+      "/gisventure/ndvi-endpoints/index.html",
+      "/gisventure/understanding-the-landscape/index.html",
+      "/gisventure/no2-column/index.html",
+      "/gisventure/low-chlorophyll/index.html",
+      "/gisventure/trichodesmium/index.html"
+    ]
+  },
+  {
+    "listing": "/gisventure/index.html",
+    "items": [
+      "/gisventure/haze-forecast/index.html",
+      "/gisventure/ndvi-endpoints/index.html",
+      "/gisventure/understanding-the-landscape/index.html",
+      "/gisventure/no2-column/index.html",
+      "/gisventure/low-chlorophyll/index.html",
+      "/gisventure/trichodesmium/index.html"
+    ]
+  }
+]
